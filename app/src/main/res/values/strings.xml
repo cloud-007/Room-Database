@@ -9,4 +9,5 @@
     <string name="last_name">Last Name</string>
     <string name="age">Age</string>
     <string name="update">Update</string>
+    <string name="delete">Delete</string>
 </resources>
